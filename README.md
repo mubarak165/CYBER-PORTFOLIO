@@ -21,18 +21,20 @@ My goal is to contribute to security monitoring and investigations while continu
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/mubarak165/Detection-lab">Detection Lab</a> |
-| Windows Event Log and Sysmon Analysis | <a href="https://github.com/mubarak165/Detection-lab">Detection Lab</a> |
-| Active Directory Security Monitoring | <a href="https://github.com/mubarak165/Detection-lab">Detection Lab</a> |
-| Brute-Force Detection and Investigation | <a href="https://github.com/mubarak165/Detection-lab">Detection Lab</a> |
-| Network Traffic Analysis | PCAP Investigation |
-| Network Monitoring and Troubleshooting | Tizeti NOC Experience |
-| Email Threat Investigation | Email Threat Investigation |
-| SPF, DKIM and DMARC Analysis | Email Threat Investigation |
-| Vulnerability Assessment | Metasploitable + Nessus Lab |
-| Security Incident Investigation | Cybersecurity Investigation Labs |
-| Security Alert Investigation | Detection Lab |
-| Security Documentation and Reporting | Cybersecurity Projects |
+| SIEM Implementation and Log Analysis | <a href="https://github.com/mubarak165/Detection-lab2">Detection Lab 2</a> |
+| Windows Event Log and Sysmon Analysis | <a href="https://github.com/mubarak165/Detection-lab2">Detection Lab 2</a> |
+| Active Directory Security Monitoring | <a href="https://github.com/mubarak165/Detection-lab2">Detection Lab 2</a> |
+| Brute-Force Detection and Investigation | <a href="https://github.com/mubarak165/Detection-lab2">Detection Lab 2</a> |
+| Network Traffic Analysis and PCAP Investigation | <a href="https://github.com/mubarak165/PCAP-Network-Traffic-Analysis-Report">PCAP Network Traffic Analysis Report</a> |
+| Email Threat Investigation | <a href="https://github.com/mubarak165/EMAIL-THREAT-INVESTIGATION-ANALYSIS">Email Threat Investigation Analysis</a> |
+| SPF, DKIM and DMARC Analysis | <a href="https://github.com/mubarak165/EMAIL-THREAT-INVESTIGATION-ANALYSIS">Email Threat Investigation Analysis</a> |
+| Vulnerability Assessment and Scanning | <a href="https://github.com/mubarak165/-Vulnerability-Assessment-Report">Vulnerability Assessment Report</a> |
+| Malicious File Investigation | <a href="https://medium.com/@mubarakabdulganiy3/lets-defend-soc-137-lab-responding-to-a-malicious-file-alert-with-siem-f7a68fef024f">SOC-137 Malicious File Alert Investigation</a> |
+| Suspicious File Investigation | <a href="https://medium.com/@mubarakabdulganiy3/soc-138-detected-suspicious-xls-file-lets-defend-fa8ec847c66e">SOC-138 Suspicious XLS File Investigation</a> |
+| Phishing URL Investigation | <a href="https://medium.com/@mubarakabdulganiy3/soc-incident-report-suspected-phishing-url-via-telegram-685eb824d9a7">SOC Incident Report — Phishing URL</a> |
+| Phishing Attachment Investigation | <a href="https://medium.com/@mubarakabdulganiy3/investigating-soc114-malicious-attachment-detected-a-phishing-alert-letsdefend-walkthrough-87a93bd846d5">SOC-114 Phishing Alert Investigation</a> |
+| Security Alert Investigation and Incident Analysis | <a href="https://medium.com/@mubarakabdulganiy3/lets-defend-soc-137-lab-responding-to-a-malicious-file-alert-with-siem-f7a68fef024f">SOC Investigation Labs</a> |
+| Security Documentation and Incident Reporting | <a href="https://github.com/mubarak165/EMAIL-THREAT-INVESTIGATION-ANALYSIS">Security Investigation Reports</a> |
 
 ## Tools
 
@@ -78,12 +80,6 @@ My goal is to contribute to security monitoring and investigations while continu
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
-### Scripting
-
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-</div>
-
 ## Certifications
 
 <div>
@@ -110,67 +106,40 @@ My goal is to contribute to security monitoring and investigations while continu
 
 ## Projects
 
-### <a href="https://github.com/mubarak165/Detection-lab">Detection Lab</a>
+### <a href="https://github.com/mubarak165/Detection-lab2">Detection Lab 2 — SIEM & Threat Detection</a>
 
-A hands-on SOC environment built to practise security monitoring, log analysis, threat detection, and investigation using Splunk, Sysmon, Windows Event Logs, and Active Directory.
+A hands-on SOC environment focused on security monitoring, log analysis, threat detection, and investigation using Splunk, Sysmon, Windows Event Logs, and Active Directory.
 
 The lab includes simulated security events and authentication activity used to investigate suspicious behaviour and develop detection logic.
 
-### PCAP Investigation
+### <a href="https://github.com/mubarak165/PCAP-Network-Traffic-Analysis-Report">PCAP Network Traffic Analysis</a>
 
 A network investigation project focused on analysing packet captures to identify suspicious network activity, investigate communication patterns, and extract relevant indicators from network traffic.
 
-### Email Threat Investigation
+### <a href="https://github.com/mubarak165/EMAIL-THREAT-INVESTIGATION-ANALYSIS">Email Threat Investigation & Analysis</a>
 
 An email security investigation focused on analysing suspicious email activity, email headers, and authentication mechanisms.
 
 The investigation examines SPF, DKIM, and DMARC to understand email authentication and identify indicators associated with potentially malicious or spoofed emails.
 
-### Metasploitable Vulnerability Assessment
+### <a href="https://github.com/mubarak165/-Vulnerability-Assessment-Report">Vulnerability Assessment — Nessus & Metasploitable</a>
 
 A vulnerability assessment lab using Metasploitable and Nessus Essentials to identify, analyse, and document vulnerabilities within a deliberately vulnerable environment.
 
 The assessment produced 72 findings that were reviewed to understand their potential security impact and remediation considerations.
 
-## Professional Experience
+### <a href="https://medium.com/@mubarakabdulganiy3/lets-defend-soc-137-lab-responding-to-a-malicious-file-alert-with-siem-f7a68fef024f">SOC-137 — Malicious File Alert Investigation</a>
 
-### NOC Engineer Intern — Tizeti
+A SOC investigation involving a malicious file alert, focusing on alert analysis, investigation workflow, and SIEM-based security monitoring.
 
-- Monitored live network infrastructure, devices, links, traffic, and performance.
-- Investigated network alerts and connectivity issues.
-- Used Ping and Traceroute for network troubleshooting.
-- Performed DNS-related troubleshooting.
-- Provided first-level technical support.
-- Investigated network performance and availability issues.
-- Escalated incidents requiring further investigation.
-- Documented incidents and troubleshooting activities.
-- Monitored network reliability and service availability.
-- Worked with live operational network events and alerts.
+### <a href="https://medium.com/@mubarakabdulganiy3/soc-138-detected-suspicious-xls-file-lets-defend-fa8ec847c66e">SOC-138 — Suspicious XLS File Investigation</a>
 
-This experience provided a strong foundation in network monitoring, troubleshooting, incident handling, service availability, and operational support, which I now apply to my cybersecurity work.
+An investigation into a suspicious Excel file alert, documenting the analysis process and indicators identified during the investigation.
 
-## Education
+### <a href="https://medium.com/@mubarakabdulganiy3/soc-incident-report-suspected-phishing-url-via-telegram-685eb824d9a7">SOC Incident Report — Suspected Phishing URL</a>
 
-### University of Ilorin
+A security investigation involving a suspected phishing URL shared through Telegram, documenting the investigation process and relevant indicators.
 
-**B.Sc. Information Technology**
+### <a href="https://medium.com/@mubarakabdulganiy3/investigating-soc114-malicious-attachment-detected-a-phishing-alert-letsdefend-walkthrough-87a93bd846d5">SOC-114 — Phishing Attachment Investigation</a>
 
-Second Class Upper Division
-
-## Areas of Interest
-
-- Security Operations (SOC)
-- Threat Detection
-- Incident Investigation
-- SIEM and Log Analysis
-- Network Security
-- Windows Security
-- Network Traffic Analysis
-- Email Security
-- Vulnerability Management
-- Defensive Security
-
-## Connect
-
-<a href="https://www.linkedin.com/in/mubarak-abdulganiy-649185233/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/mubarak165"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+A SOC investigation into a malicious attachment alert, focusing on phishing analysis, investigation methodology, and documenting the findings.
