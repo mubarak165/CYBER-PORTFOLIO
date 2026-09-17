@@ -78,6 +78,7 @@ My goal is to contribute to security monitoring and investigations while continu
 <div>
     <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parrot_OS-00AEEF?&style=for-the-badge&logo=parrotsecurity&logoColor=white" />
 </div>
 
 ## Certifications
