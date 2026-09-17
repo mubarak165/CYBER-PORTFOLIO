@@ -1,7 +1,6 @@
 # Hello, I'm Mubarak Abdulganiy
 
 <a href="https://www.linkedin.com/in/mubarak-abdulganiy-649185233/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/mubarak165"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 I am a B.Sc. Information Technology graduate focused on cybersecurity, with hands-on experience in Security Operations, threat detection, incident investigation, network security, and network operations.
 
@@ -35,6 +34,7 @@ My goal is to contribute to security monitoring and investigations while continu
 | Phishing Attachment Investigation | <a href="https://medium.com/@mubarakabdulganiy3/investigating-soc114-malicious-attachment-detected-a-phishing-alert-letsdefend-walkthrough-87a93bd846d5">SOC-114 Phishing Alert Investigation</a> |
 | Security Alert Investigation and Incident Analysis | <a href="https://medium.com/@mubarakabdulganiy3/lets-defend-soc-137-lab-responding-to-a-malicious-file-alert-with-siem-f7a68fef024f">SOC Investigation Labs</a> |
 | Security Documentation and Incident Reporting | <a href="https://github.com/mubarak165/EMAIL-THREAT-INVESTIGATION-ANALYSIS">Security Investigation Reports</a> |
+| Malware Analysis and Investigation | <a href="https://github.com/mubarak165/MALWARE-ANALYSIS-2">Malware Analysis 2</a> |
 
 ## Tools
 
