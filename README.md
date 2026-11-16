@@ -35,6 +35,7 @@ My goal is to contribute to security monitoring and investigations while continu
 | Security Alert Investigation and Incident Analysis | <a href="https://medium.com/@mubarakabdulganiy3/lets-defend-soc-137-lab-responding-to-a-malicious-file-alert-with-siem-f7a68fef024f">SOC Investigation Labs</a> |
 | Security Documentation and Incident Reporting | <a href="https://github.com/mubarak165/EMAIL-THREAT-INVESTIGATION-ANALYSIS">Security Investigation Reports</a> |
 | Malware Analysis and Investigation | <a href="https://github.com/mubarak165/MALWARE-ANALYSIS-2">Malware Analysis 2</a> |
+| AI SIEM Alert Investigation and SOC Automation | <a href="https://github.com/mubarak165/AI-Powered-Wazuh-SOC-Copilot">AI-Powered Wazuh SOC Copilot</a> |
 
 ## Tools
 
